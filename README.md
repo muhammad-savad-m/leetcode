@@ -29,4 +29,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/muhammad-savad-m/leetcode/tree/master/0202-happy-number) |
+## Array
+|  |
+| ------- |
+| [0136-single-number](https://github.com/muhammad-savad-m/leetcode/tree/master/0136-single-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/muhammad-savad-m/leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
