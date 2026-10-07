@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/muhammad-savad-m/leetcode/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/muhammad-savad-m/leetcode/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/muhammad-savad-m/leetcode/tree/master/0283-move-zeroes) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/muhammad-savad-m/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/muhammad-savad-m/leetcode/tree/master/0169-majority-element) |
+| [0283-move-zeroes](https://github.com/muhammad-savad-m/leetcode/tree/master/0283-move-zeroes) |
 | [1528-shuffle-string](https://github.com/muhammad-savad-m/leetcode/tree/master/1528-shuffle-string) |
 ## Bit Manipulation
 |  |
