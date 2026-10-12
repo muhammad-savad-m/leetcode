@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/muhammad-savad-m/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/muhammad-savad-m/leetcode/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/muhammad-savad-m/leetcode/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/muhammad-savad-m/leetcode/tree/master/0202-happy-number) |
 | [0326-power-of-three](https://github.com/muhammad-savad-m/leetcode/tree/master/0326-power-of-three) |
 ## Hash Table
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/muhammad-savad-m/leetcode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/muhammad-savad-m/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/muhammad-savad-m/leetcode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/muhammad-savad-m/leetcode/tree/master/0283-move-zeroes) |
