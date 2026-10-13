@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/muhammad-savad-m/leetcode/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/muhammad-savad-m/leetcode/tree/master/0202-happy-number) |
 | [0326-power-of-three](https://github.com/muhammad-savad-m/leetcode/tree/master/0326-power-of-three) |
+| [1512-number-of-good-pairs](https://github.com/muhammad-savad-m/leetcode/tree/master/1512-number-of-good-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/muhammad-savad-m/leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/muhammad-savad-m/leetcode/tree/master/0205-isomorphic-strings) |
 | [0387-first-unique-character-in-a-string](https://github.com/muhammad-savad-m/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1512-number-of-good-pairs](https://github.com/muhammad-savad-m/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/muhammad-savad-m/leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## String
 |  |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/muhammad-savad-m/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/muhammad-savad-m/leetcode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/muhammad-savad-m/leetcode/tree/master/0283-move-zeroes) |
+| [1512-number-of-good-pairs](https://github.com/muhammad-savad-m/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/muhammad-savad-m/leetcode/tree/master/1528-shuffle-string) |
 ## Bit Manipulation
 |  |
@@ -59,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/muhammad-savad-m/leetcode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/muhammad-savad-m/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1512-number-of-good-pairs](https://github.com/muhammad-savad-m/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/muhammad-savad-m/leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Divide and Conquer
 |  |
