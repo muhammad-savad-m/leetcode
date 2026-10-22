@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/muhammad-savad-m/leetcode/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/muhammad-savad-m/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/muhammad-savad-m/leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/muhammad-savad-m/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Recursion
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/muhammad-savad-m/leetcode/tree/master/1528-shuffle-string) |
 | [1773-count-items-matching-a-rule](https://github.com/muhammad-savad-m/leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [1816-truncate-sentence](https://github.com/muhammad-savad-m/leetcode/tree/master/1816-truncate-sentence) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/muhammad-savad-m/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Bit Manipulation
 |  |
 | ------- |
