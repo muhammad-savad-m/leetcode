@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/muhammad-savad-m/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/muhammad-savad-m/leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/muhammad-savad-m/leetcode/tree/master/0205-isomorphic-strings) |
+| [0383-ransom-note](https://github.com/muhammad-savad-m/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/muhammad-savad-m/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/muhammad-savad-m/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/muhammad-savad-m/leetcode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/muhammad-savad-m/leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/muhammad-savad-m/leetcode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/muhammad-savad-m/leetcode/tree/master/0205-isomorphic-strings) |
+| [0383-ransom-note](https://github.com/muhammad-savad-m/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/muhammad-savad-m/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1528-shuffle-string](https://github.com/muhammad-savad-m/leetcode/tree/master/1528-shuffle-string) |
 | [1773-count-items-matching-a-rule](https://github.com/muhammad-savad-m/leetcode/tree/master/1773-count-items-matching-a-rule) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/muhammad-savad-m/leetcode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/muhammad-savad-m/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/muhammad-savad-m/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/muhammad-savad-m/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/muhammad-savad-m/leetcode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
