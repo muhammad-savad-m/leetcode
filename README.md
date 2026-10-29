@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1773-count-items-matching-a-rule](https://github.com/muhammad-savad-m/leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [1816-truncate-sentence](https://github.com/muhammad-savad-m/leetcode/tree/master/1816-truncate-sentence) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/muhammad-savad-m/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2798-number-of-employees-who-met-the-target](https://github.com/muhammad-savad-m/leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
 ## Bit Manipulation
 |  |
 | ------- |
