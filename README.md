@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/muhammad-savad-m/leetcode/tree/master/0326-power-of-three) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/muhammad-savad-m/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1512-number-of-good-pairs](https://github.com/muhammad-savad-m/leetcode/tree/master/1512-number-of-good-pairs) |
+| [2469-convert-the-temperature](https://github.com/muhammad-savad-m/leetcode/tree/master/2469-convert-the-temperature) |
 ## Hash Table
 |  |
 | ------- |
