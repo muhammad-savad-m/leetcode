@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/muhammad-savad-m/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/muhammad-savad-m/leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2351-first-letter-to-appear-twice](https://github.com/muhammad-savad-m/leetcode/tree/master/2351-first-letter-to-appear-twice) |
+| [2540-minimum-common-value](https://github.com/muhammad-savad-m/leetcode/tree/master/2540-minimum-common-value) |
 ## String
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/muhammad-savad-m/leetcode/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/muhammad-savad-m/leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/muhammad-savad-m/leetcode/tree/master/0283-move-zeroes) |
+| [2540-minimum-common-value](https://github.com/muhammad-savad-m/leetcode/tree/master/2540-minimum-common-value) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1773-count-items-matching-a-rule](https://github.com/muhammad-savad-m/leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [1816-truncate-sentence](https://github.com/muhammad-savad-m/leetcode/tree/master/1816-truncate-sentence) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/muhammad-savad-m/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2540-minimum-common-value](https://github.com/muhammad-savad-m/leetcode/tree/master/2540-minimum-common-value) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/muhammad-savad-m/leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
 ## Bit Manipulation
 |  |
@@ -104,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/muhammad-savad-m/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Binary Search
+|  |
+| ------- |
+| [2540-minimum-common-value](https://github.com/muhammad-savad-m/leetcode/tree/master/2540-minimum-common-value) |
 <!---LeetCode Topics End-->
