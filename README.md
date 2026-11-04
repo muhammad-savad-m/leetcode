@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/muhammad-savad-m/leetcode/tree/master/0283-move-zeroes) |
 | [1512-number-of-good-pairs](https://github.com/muhammad-savad-m/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/muhammad-savad-m/leetcode/tree/master/1528-shuffle-string) |
+| [1550-three-consecutive-odds](https://github.com/muhammad-savad-m/leetcode/tree/master/1550-three-consecutive-odds) |
 | [1748-sum-of-unique-elements](https://github.com/muhammad-savad-m/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1773-count-items-matching-a-rule](https://github.com/muhammad-savad-m/leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [1816-truncate-sentence](https://github.com/muhammad-savad-m/leetcode/tree/master/1816-truncate-sentence) |
