@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/muhammad-savad-m/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/muhammad-savad-m/leetcode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/muhammad-savad-m/leetcode/tree/master/0283-move-zeroes) |
+| [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/muhammad-savad-m/leetcode/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1512-number-of-good-pairs](https://github.com/muhammad-savad-m/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/muhammad-savad-m/leetcode/tree/master/1528-shuffle-string) |
 | [1550-three-consecutive-odds](https://github.com/muhammad-savad-m/leetcode/tree/master/1550-three-consecutive-odds) |
