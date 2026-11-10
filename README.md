@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/muhammad-savad-m/leetcode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1816-truncate-sentence](https://github.com/muhammad-savad-m/leetcode/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/muhammad-savad-m/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1859-sorting-the-sentence](https://github.com/muhammad-savad-m/leetcode/tree/master/1859-sorting-the-sentence) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/muhammad-savad-m/leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/muhammad-savad-m/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2351-first-letter-to-appear-twice](https://github.com/muhammad-savad-m/leetcode/tree/master/2351-first-letter-to-appear-twice) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/muhammad-savad-m/leetcode/tree/master/0169-majority-element) |
+| [1859-sorting-the-sentence](https://github.com/muhammad-savad-m/leetcode/tree/master/1859-sorting-the-sentence) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/muhammad-savad-m/leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -127,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/muhammad-savad-m/leetcode/tree/master/1732-find-the-highest-altitude) |
+## Bubble Sort
+|  |
+| ------- |
+| [1859-sorting-the-sentence](https://github.com/muhammad-savad-m/leetcode/tree/master/1859-sorting-the-sentence) |
 <!---LeetCode Topics End-->
