@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/muhammad-savad-m/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1512-number-of-good-pairs](https://github.com/muhammad-savad-m/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/muhammad-savad-m/leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/muhammad-savad-m/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/muhammad-savad-m/leetcode/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/muhammad-savad-m/leetcode/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/muhammad-savad-m/leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1773-count-items-matching-a-rule](https://github.com/muhammad-savad-m/leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [1816-truncate-sentence](https://github.com/muhammad-savad-m/leetcode/tree/master/1816-truncate-sentence) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/muhammad-savad-m/leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/muhammad-savad-m/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/muhammad-savad-m/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/muhammad-savad-m/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2540-minimum-common-value](https://github.com/muhammad-savad-m/leetcode/tree/master/2540-minimum-common-value) |
@@ -136,4 +138,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1859-sorting-the-sentence](https://github.com/muhammad-savad-m/leetcode/tree/master/1859-sorting-the-sentence) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/muhammad-savad-m/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/muhammad-savad-m/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/muhammad-savad-m/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
