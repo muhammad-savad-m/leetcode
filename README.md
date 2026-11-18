@@ -163,4 +163,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/muhammad-savad-m/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+## Tree
+|  |
+| ------- |
+| [2236-root-equals-sum-of-children](https://github.com/muhammad-savad-m/leetcode/tree/master/2236-root-equals-sum-of-children) |
+## Binary Tree
+|  |
+| ------- |
+| [2236-root-equals-sum-of-children](https://github.com/muhammad-savad-m/leetcode/tree/master/2236-root-equals-sum-of-children) |
 <!---LeetCode Topics End-->
