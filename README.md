@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/muhammad-savad-m/leetcode/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/muhammad-savad-m/leetcode/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/muhammad-savad-m/leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2729-check-if-the-number-is-fascinating](https://github.com/muhammad-savad-m/leetcode/tree/master/2729-check-if-the-number-is-fascinating) |
 ## Hash Table
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/muhammad-savad-m/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2351-first-letter-to-appear-twice](https://github.com/muhammad-savad-m/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2540-minimum-common-value](https://github.com/muhammad-savad-m/leetcode/tree/master/2540-minimum-common-value) |
+| [2729-check-if-the-number-is-fascinating](https://github.com/muhammad-savad-m/leetcode/tree/master/2729-check-if-the-number-is-fascinating) |
 ## String
 |  |
 | ------- |
