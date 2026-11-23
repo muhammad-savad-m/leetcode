@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/muhammad-savad-m/leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/muhammad-savad-m/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2351-first-letter-to-appear-twice](https://github.com/muhammad-savad-m/leetcode/tree/master/2351-first-letter-to-appear-twice) |
+| [2418-sort-the-people](https://github.com/muhammad-savad-m/leetcode/tree/master/2418-sort-the-people) |
 | [2540-minimum-common-value](https://github.com/muhammad-savad-m/leetcode/tree/master/2540-minimum-common-value) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/muhammad-savad-m/leetcode/tree/master/2729-check-if-the-number-is-fascinating) |
 ## String
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/muhammad-savad-m/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/muhammad-savad-m/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2351-first-letter-to-appear-twice](https://github.com/muhammad-savad-m/leetcode/tree/master/2351-first-letter-to-appear-twice) |
+| [2418-sort-the-people](https://github.com/muhammad-savad-m/leetcode/tree/master/2418-sort-the-people) |
 ## Recursion
 |  |
 | ------- |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/muhammad-savad-m/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/muhammad-savad-m/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/muhammad-savad-m/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2418-sort-the-people](https://github.com/muhammad-savad-m/leetcode/tree/master/2418-sort-the-people) |
 | [2540-minimum-common-value](https://github.com/muhammad-savad-m/leetcode/tree/master/2540-minimum-common-value) |
 | [2706-buy-two-chocolates](https://github.com/muhammad-savad-m/leetcode/tree/master/2706-buy-two-chocolates) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/muhammad-savad-m/leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -123,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1859-sorting-the-sentence](https://github.com/muhammad-savad-m/leetcode/tree/master/1859-sorting-the-sentence) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/muhammad-savad-m/leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/muhammad-savad-m/leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2418-sort-the-people](https://github.com/muhammad-savad-m/leetcode/tree/master/2418-sort-the-people) |
 | [2706-buy-two-chocolates](https://github.com/muhammad-savad-m/leetcode/tree/master/2706-buy-two-chocolates) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
