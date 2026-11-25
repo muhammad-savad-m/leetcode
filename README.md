@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/muhammad-savad-m/leetcode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/muhammad-savad-m/leetcode/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/muhammad-savad-m/leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/muhammad-savad-m/leetcode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/muhammad-savad-m/leetcode/tree/master/0205-isomorphic-strings) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/muhammad-savad-m/leetcode/tree/master/0014-longest-common-prefix) |
 | [0066-plus-one](https://github.com/muhammad-savad-m/leetcode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/muhammad-savad-m/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/muhammad-savad-m/leetcode/tree/master/0169-majority-element) |
@@ -183,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2236-root-equals-sum-of-children](https://github.com/muhammad-savad-m/leetcode/tree/master/2236-root-equals-sum-of-children) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/muhammad-savad-m/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
