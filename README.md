@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2469-convert-the-temperature](https://github.com/muhammad-savad-m/leetcode/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/muhammad-savad-m/leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2544-alternating-digit-sum](https://github.com/muhammad-savad-m/leetcode/tree/master/2544-alternating-digit-sum) |
+| [2651-calculate-delayed-arrival-time](https://github.com/muhammad-savad-m/leetcode/tree/master/2651-calculate-delayed-arrival-time) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/muhammad-savad-m/leetcode/tree/master/2729-check-if-the-number-is-fascinating) |
 ## Hash Table
 |  |
