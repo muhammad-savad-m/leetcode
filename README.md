@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/muhammad-savad-m/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2351-first-letter-to-appear-twice](https://github.com/muhammad-savad-m/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2418-sort-the-people](https://github.com/muhammad-savad-m/leetcode/tree/master/2418-sort-the-people) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/muhammad-savad-m/leetcode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 ## Recursion
 |  |
 | ------- |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/muhammad-savad-m/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2418-sort-the-people](https://github.com/muhammad-savad-m/leetcode/tree/master/2418-sort-the-people) |
 | [2540-minimum-common-value](https://github.com/muhammad-savad-m/leetcode/tree/master/2540-minimum-common-value) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/muhammad-savad-m/leetcode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2706-buy-two-chocolates](https://github.com/muhammad-savad-m/leetcode/tree/master/2706-buy-two-chocolates) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/muhammad-savad-m/leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
 ## Bit Manipulation
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/muhammad-savad-m/leetcode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/muhammad-savad-m/leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2351-first-letter-to-appear-twice](https://github.com/muhammad-savad-m/leetcode/tree/master/2351-first-letter-to-appear-twice) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/muhammad-savad-m/leetcode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 ## Divide and Conquer
 |  |
 | ------- |
